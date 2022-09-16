@@ -1,6 +1,8 @@
 # 0x16. C - Simple Shell
 This is a project to create our own shell using C.
 
+If you are an ALX Student, don't use this repo as I have used global variables and that will not check Betty.
+
 ## About this project
 This project is a simple version of the linux shell made for [ALX SOFTWARE ENGINEERING] taking part of the "Simple Shell - Linux and Unix system programming" Project.\
 It is created using the **C programming Language** and it can do many functionalities that a real shell does.
@@ -43,11 +45,11 @@ The first step is to create an infinite loop that is always ready to take any co
 You can try our shell by following these steps:
 > **Step 1:** Clone our repository using this command, (you need to have git installed on your machine first)
 ````
-git clone https://github.com/miketerer/simple_shell
+git clone https://github.com/iankisali/shell_project
 ````
 > **Step 2:** Change directory to simple_shell:
 ````
-cd simple_shell
+cd shell_project
 ````
 > **Step 3:** Compile the C files in this way:
 ````
